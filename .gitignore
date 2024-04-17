@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+hotstore-d100c-firebase-adminsdk-rc5ff-c900ad4ba1.json
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
